@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promi Teleprompter - Support</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            line-height: 1.6; 
+            margin: 20px; 
+            background-color: #f9f9f9; 
+            color: #000000; 
+        }
+        h1 { font-size: 28px; margin-bottom: 20px; }
+        h2 { font-size: 22px; margin-top: 30px; margin-bottom: 10px; }
+        p, ul, li { max-width: 800px; margin-bottom: 15px; }
+        ul { padding-left: 20px; }
+        a { color: #000000; text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Support</h1>
+    <p><strong>Last Updated:</strong> March 18, 2026</p>
+
+    <h2>1. Welcome to Promi Teleprompter Support</h2>
+    <p>
+        Thank you for using Promi Teleprompter!  
+        We’re here to help you with any questions, issues, or feedback regarding the app.
+    </p>
+
+    <h2>2. How Promi Teleprompter Works</h2>
+    <p>
+        Promi Teleprompter allows you to write or paste your script and display it on screen while recording or presenting.
+        All scripts and content are handled locally on your device.
+    </p>
+
+    <h2>3. Common Issues and Solutions</h2>
+    <ul>
+        <li><strong>Text Not Scrolling</strong>: Make sure scrolling speed is set correctly and playback is started.</li>
+        <li><strong>App Performance Issues</strong>: Restart the app and ensure your device has enough available storage.</li>
+        <li><strong>Recording Problems</strong>: Check that camera and microphone permissions are enabled in device settings.</li>
+        <li><strong>Subscription Not Active</strong>: Tap "Restore Purchases" to sync your subscription.</li>
+    </ul>
+
+    <h2>4. Subscriptions and Purchases</h2>
+    <p>
+        Promi Teleprompter offers optional premium features via subscription.
+        All payments are securely handled through Apple In-App Purchases.
+    </p>
+    <p>
+        If your subscription is not recognized, please use the <strong>"Restore Purchases"</strong> option in the app.
+    </p>
+
+    <h2>5. Contact Support</h2>
+    <p>
+        If you need help, please contact us at:
+        <br>
+        <a href="mailto:tugberktabak@yahoo.com"><strong>tugberktabak@yahoo.com</strong></a>
+    </p>
+    <p>
+        To help us resolve your issue faster, please include:
+    </p>
+    <ul>
+        <li>Your User ID (if available)</li>
+        <li>A short description of the issue</li>
+        <li>Screenshots or screen recordings (if possible)</li>
+    </ul>
+    <p>
+        We aim to respond within 24–48 hours.
+    </p>
+
+    <h2>6. Feature Requests and Feedback</h2>
+    <p>
+        We’re constantly improving Promi Teleprompter.
+        If you have suggestions or feature requests, feel free to reach out via email.
+    </p>
+
+    <h2>7. Troubleshooting Tips</h2>
+    <ul>
+        <li>Make sure you are using the latest version of the app.</li>
+        <li>Restart your device if you encounter unexpected issues.</li>
+        <li>Ensure permissions (camera, microphone) are properly enabled.</li>
+    </ul>
+
+    <h2>8. Escalation</h2>
+    <p>
+        If your issue is not resolved within 48 hours, please follow up with additional details.
+        For urgent requests, you may include <strong>"Urgent"</strong> in your email subject.
+    </p>
+</body>
+</html>
